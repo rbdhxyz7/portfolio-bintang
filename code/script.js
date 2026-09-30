@@ -44,6 +44,7 @@ const icons = [
   'fa-brands fa-instagram',
   'fa-brands fa-tiktok',
   'fa-brands fa-youtube',
+  'fa-brands fa-github',
   'fa-solid fa-envelope'
 ];
 

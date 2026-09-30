@@ -54,6 +54,7 @@ body {
 .btn-ig { background: linear-gradient(45deg, #f09433, #e6683c, #dc2743, #cc2366, #bc1888); }
 .btn-tt { background-color: #000000; border: 1px solid #333; }
 .btn-yt { background-color: #ff0000; }
+.btn-github { background-color: #24292e; border: 1px solid #444; }
 .btn-gmail { background-color: #ea4335; }
 .btn-kampus { background-color: #2563eb; }
 
@@ -252,6 +253,7 @@ body {
 .ig-icon { background: linear-gradient(45deg, #f09433, #dc2743, #bc1888); }
 .yt-icon { background-color: #ff0000; }
 .tt-icon { background-color: #000; border: 1px solid #333; }
+.github-icon { background-color: #24292e; border: 1px solid #444; }
 
 .social-info h3 {
   font-size: 1rem;
@@ -402,6 +404,7 @@ footer {
 .social-item.ig { background: linear-gradient(45deg, #f09433, #dc2743, #bc1888); }
 .social-item.tt { background-color: #000; border: 1px solid #444; }
 .social-item.yt { background-color: #ff0000; }
+.social-item.github { background-color: #24292e; border: 1px solid #444; }
 .social-item.gmail { background-color: #ea4335; }
 .social-item.kampus { background-color: #2563eb; }
 
