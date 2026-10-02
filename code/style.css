@@ -1,4 +1,4 @@
-/* Reset & Base Styles */
+
 * {
   margin: 0;
   padding: 0;
@@ -14,14 +14,12 @@ body {
   padding-bottom: 60px;
 }
 
-/* Container Principal */
 .container {
   max-width: 1000px;
   margin: 0 auto;
   padding: 20px;
 }
 
-/* Floating Top Bar (Header Kanan Atas) */
 .top-wa-bar {
   display: flex;
   justify-content: flex-end;
@@ -58,7 +56,6 @@ body {
 .btn-gmail { background-color: #ea4335; }
 .btn-kampus { background-color: #2563eb; }
 
-/* Profile Card / Header */
 .profile-card {
   background-color: #1e293b;
   border-radius: 16px;
@@ -125,7 +122,6 @@ body {
   line-height: 1.6;
 }
 
-/* Sections Common */
 .info-section {
   background-color: #1e293b;
   border-radius: 16px;
@@ -143,7 +139,6 @@ body {
   gap: 10px;
 }
 
-/* Experience Cards Grid */
 .cards-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
@@ -194,7 +189,6 @@ body {
   color: #94a3b8;
 }
 
-/* Social Media Slider */
 .slider-container {
   position: relative;
   overflow: hidden;
